@@ -47,6 +47,10 @@ Q - how do you get things done / what project management tools do you use?
 A - everyone in the company uses FogBugz to track what to do  
 A - I use John Carmack's .plan file format to track what was done  
 
+Q - why do have two systems that seem to do the same thing?  
+A - FogBugz doesn't track the emergency requests made by hysterical co-workers who don't log a FogBugz case because then there would be a permanent record of their massive project management skills  
+A - and it's also good for retroactively inventing timesheets
+
 Q - what version control system do you use?  
 A - mainly SVN, with Git for some side projects  
 
