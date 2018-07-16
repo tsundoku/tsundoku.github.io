@@ -6,24 +6,30 @@ Q - how many hours do you spend per week on actual coding?
 A - about 20 hours, I've never had a job that was only coding
 
 Q - what do you do in the other 20 hours?  
-A - right now, information security, but it changes month to month
+A - right now, information security, but it changes month to month  
+A - it's a small company, I look after the network, systems, security, code, live application deployments, and I go out to see the bigger clients (FNB/RMB, Standard Bank, Momentum)
 
 Q - how much time do you spend on back-end code vs. front-end code?  
 A - 90% back-end / 10% front-end
 
+Q - and what do you use for that code?  
+A - for code that goes into the system it's all C# and WCF on the back-end, with ASP.NET, WebAPI, and Angular on the front-end  
+A - for tools lately it's C# and WPF, before that the tools were in Python or Ruby
+
+
 Q - what were the last projects that you worked on alone?  
 A - (many) data transformation projects, implemented as WPF apps in C#  
-A - making something for automated penetration testing (still in early development)
+A - an automated penetration testing tool, but we might scrap that and just use McAfee since they're an authorised scanning vendor (ASV) for payment card industry certification (PCI DSS)
 
 Q - what were the last projects that you worked on in a team?  
-A - a web service maintenance project, I added the changes to the web service library, someone else added the UI changes  
+A - a web service maintenance project, I added the changes to the web service library (assigned to me because I originally made the library), someone else added the UI changes  
 A - an integration project, I made the message queue library, someone else made the web service library and the UI
 
 Q - how big was the software team at your current job / last job?  
 A - small teams only, between 4 and 8 people  
-A - but I've also worked on-site with the Big 4 banks who have more people than what they really know what to do with  
+A - but I've also worked on-site with banks and insurers, e.g. last year I was at FNB/RMB every other day
 
-Q - what is good code?  
+Q - so, what is good code?  
 A - code that doesn't make me think, organising the structure of a software project is essentially the same information design problem as every other information design problem  
 
 Q - do you use any unit tests or automated tests?  
@@ -31,7 +37,8 @@ A - no, automated testing is (more or less) outsourced to another company
 
 Q - do you use virtualization?  
 A - not for live servers  
-A - VMware for the penetration testing environment, build environment, and disaster recovery test environment
+A - VMware for the penetration testing environment (Kali) and disaster recovery test environment (Windows Server 2012 R2)  
+A - I had originally set it up on Hyper-V, but having to set up your own virtual network scared some of the senior developers, so I switched everything to VMware
 
 Q - do you use containers?  
 A - no
@@ -47,16 +54,18 @@ Q - how do you get things done / what project management tools do you use?
 A - everyone in the company uses FogBugz to track what to do  
 A - I use John Carmack's .plan file format to track what was done  
 
-Q - why do have two systems that seem to do the same thing?  
-A - FogBugz doesn't track the emergency requests made by hysterical co-workers who don't log a FogBugz case because then there would be a permanent record of their massive project management skills  
-A - and it's also good for retroactively inventing timesheets
+Q - why do you have two systems that seem to do the same thing?  
+A - FogBugz only tracks official requests, which is maybe a quarter of what I do  
+A - and .plan files are also good for retroactively inventing timesheets
 
 Q - what version control system do you use?  
 A - mainly SVN, with Git for some side projects  
 
 Q - how do you keep your skills up to date?  
-A - I watch ArsDigita videos (Shai Simonson is an underappreciated genius), and Programming with Mosh videos, and CBT Nuggets videos, etc.  
-A - and Twitter, which is a surprisingly good technical resource, assuming you follow the right people, and mute or block all of the unironic communists  
+A - I watch ArsDigita videos (Shai Simonson is an underappreciated genius), Robert Sedgewick videos, Programming with Mosh videos, CBT Nuggets videos, etc.  
+A - but right now it's mainly the theory of computation videos by Shai Simonson
+
+(P.S. I'm going to ask you the same question, how do you keep your staff's skills up to date?)
 
 Q - what is the most difficult / challenging part of your current job / last job?  
 A - managing up / influence without authority
@@ -84,7 +93,8 @@ A - Visual Studio and C# are the only things that Microsoft has done right in re
 
 Q - vi vs. Emacs  
 A - nano, **like a normal person**  
-A - otherwise Sublime Text and Brackets
+A - otherwise Notepad++, Sublime Text, and Brackets  
+A - Notepad++ specifically for the save-as-admin plugin to update config files that live somewhere under \Program Files\ or under \inetpub\wwwroot\
 
 Q - Google Cloud Platform vs. Amazon Web Services vs. Microsoft Azure  
 A - Google is the least painful to use, Microsoft is (by far) the most painful to use  
@@ -93,10 +103,10 @@ A - no, Google wins, flawless victory, do or do not, Microsoft didn't even try
 Q - Windows vs. macOS vs. Linux vs. BSD  
 A - BSD for firewalls, Linux for servers, macOS for desktops  
 A - yes, Linux is nice, but BSD has ipfw, pf, and npf, and based on past experience the server will only go down if the hardware explodes  
-A - and there's no systemd on BSD
 
 Q - Red Hat vs. Debian  
-A - Red Hat from 1999 till it got unbearable, then Ubuntu till it got unbearable, and now Alpine and Kali and Parrot
+A - Red Hat from 1999 till it got unbearable, then Ubuntu LTS till it got unbearable, and now Alpine and Kali and Parrot  
+A - Alpine originally because it was light-enough to be fast-enough in VirtualBox on my old Pentium 4, now because it's light-enough to run at the speed of light on my Mac mini
 
 Q - how do you pronounce Linux?  
 A - depends on how aggressively the other person is pronouncing it
@@ -107,7 +117,6 @@ A - but DB2 does have the most complete implementation of ANSI SQL
 
 Q - Intel vs. AMD vs. Arm  
 A - if this is an assembly language question then TI MSP430  
-A - the register windows on SPARC are nice too
 
 Q - what do you do on the weekend?    
 A - hamburgers (#1 - the rib eye beef burger at Aroma)  
