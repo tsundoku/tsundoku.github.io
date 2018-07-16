@@ -117,7 +117,7 @@ A - but DB2 does have the most complete implementation of ANSI SQL
 
 Q - Intel vs. AMD vs. Arm  
 A - if this is an assembly language question then TI MSP430  
-A - but seriously, [just have look at it](http://robotics.hobbizine.com/asmlau.html), it's easier to understand than many high level languages
+A - [just look at this magnificent beast, I defy you to find a more fabulous assembly language](http://robotics.hobbizine.com/asmlau.html), it's easier to understand than many high level languages
 
 Q - what do you do on the weekend?    
 A - hamburgers (#1 - the rib eye beef burger at Aroma)  
