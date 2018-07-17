@@ -17,11 +17,10 @@ A - for new tools it's C# and WPF, some olders tools are still in Python or Ruby
 
 Q - what were the last projects that you worked on alone?  
 A - (many) data transformation projects, implemented as WPF apps in C#  
-A - an automated penetration testing tool, but we might scrap that and just use McAfee since they're an authorised scanning vendor (ASV) for payment card industry certification (PCI DSS)
 
 Q - what were the last projects that you worked on in a team?  
-A - a web service maintenance project, I added the changes to the web service library (assigned to me because I originally made the library), someone else added the UI changes  
-A - an integration project, I made the message queue library, someone else made the web service library and the UI
+A - a web service maintenance project, I added the changes to the web service library (assigned to me because I originally made the library), and someone else added the changes to the UI  
+A - a proof of concept for integration with an enterprise stack, I made the message queue library, someone else made the web service library and the UI
 
 Q - how big was the software team at your current job / last job?  
 A - small teams only, between 4 and 8 people  
@@ -56,7 +55,7 @@ Q - why do you duplicate your work across two systems?
 A - FogBugz only tracks official requests, which is maybe a quarter of what I do  
 
 Q - what version control system do you use?  
-A - mainly SVN, with Git for some side projects  
+A - mainly SVN, with GitHub for working with outside contractors  
 
 Q - how do you keep your skills up to date?  
 A - I watch ArsDigita videos (Shai Simonson is an underappreciated genius), Robert Sedgewick videos, Programming with Mosh videos, CBT Nuggets videos, etc.  
@@ -67,8 +66,7 @@ A - managing up / influence without authority
 
 Q - so, business comes over to your desk and is busy talking you into an ugly hack that will add a ton of technical debt, what do you do?  
 A - express concern, act surprised, deny everything  
-A - a couple of years ago, absolutely anything to keep the business running  
-A - now, absolutely any zero debt solution to keep the business running  
+A - but seriously, technical debt can be thought of as an abstraction for defrauding the company over time  
 
 Q - what is your biggest weakness?  
 A - physically, all of my back injuries, the heaviest item that I can lift is a gaming laptop, I need to use an ergonomic keyboard, an ergonomic mouse, and an ergonomic chair, and I can't be part of any activity more physically demanding than a walk to the nearest café  
@@ -86,16 +84,16 @@ A - Visual Studio and C# are the only things that Microsoft has done right in re
 Q - vi vs. Emacs  
 A - nano, **like a normal person**  
 A - otherwise Notepad++, Sublime Text, and Brackets  
-A - Notepad++ is nice for the save-as-admin plugin to update config files that live somewhere protected, i.e. under \Program Files\ or \Program Files (x86)\ or \inetpub\wwwroot\  
+A - Notepad++ for the save-as-admin plugin to update config files that live somewhere protected, i.e. under \Program Files\ or \Program Files (x86)\ or \inetpub\wwwroot\  
 
 Q - Google Cloud Platform vs. Amazon Web Services vs. Microsoft Azure  
 A - Google is the least painful to use, Microsoft is the most painful to use  
-A - [ethically, Amazon is not an option](https://gizmodo.com/reminder-amazon-treats-its-employees-like-shit-1792642652)  
-A - [I'm planning on trying out DigitalOcean for playing around with the Algo VPN](https://zeltser.com/deploy-algo-vpn-digital-ocean/)
+A - [ethically, Amazon is in last place](https://gizmodo.com/reminder-amazon-treats-its-employees-like-shit-1792642652)  
+A - [I'm planning on trying DigitalOcean for an Algo VPN](https://zeltser.com/deploy-algo-vpn-digital-ocean/)
 
 Q - Windows vs. macOS vs. Linux vs. BSD  
 A - BSD for firewalls, Linux for servers, macOS for desktops  
-A - Linux is nice for servers, but BSD has native ipfw, pf, and npf, and based on past experience BSD will only go down if the hardware literally explodes  
+A - BSD over Linux for firewalls because it has native ipfw, pf, and npf, and based on past experience BSD will only go down if the hardware explodes, a handy feature for a box that's assumed to be carrier grade  
 
 Q - Red Hat vs. Debian  
 A - Red Hat from 1999 till it got unbearable, then Ubuntu LTS till it got unbearable, and now Alpine and Kali and Parrot  
