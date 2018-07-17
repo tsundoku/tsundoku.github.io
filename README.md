@@ -90,7 +90,8 @@ A - Notepad++ is nice for the save-as-admin plugin to update config files that l
 
 Q - Google Cloud Platform vs. Amazon Web Services vs. Microsoft Azure  
 A - Google is the least painful to use, Microsoft is (by far) the most painful to use  
-A - no, Google wins, flawless victory, do or do not, Microsoft didn't even try
+A - no, Google wins, flawless victory, do or do not, Microsoft didn't even try  
+A - and Amazon treats their employees like “but what if the slave consents?” was a perfectly valid option, so, ethically, they're not an option  
 
 Q - Windows vs. macOS vs. Linux vs. BSD  
 A - BSD for firewalls, Linux for servers, macOS for desktops  
