@@ -31,7 +31,7 @@ Q - so, what is good code?
 A - code that doesn't make me think, organising the structure of a software project is essentially the same information design problem as every other information design problem  
 
 Q - do you use any unit tests or automated tests?  
-A - no, automated testing is (more or less) outsourced to another company
+A - no, automated testing is (more or less) outsourced to another company  
 
 Q - do you use virtualization?  
 A - not for live servers  
@@ -54,7 +54,6 @@ A - I use John Carmack's .plan file format to track what was done
 
 Q - why do you duplicate your work across two systems?  
 A - FogBugz only tracks official requests, which is maybe a quarter of what I do  
-A - and .plan files are also good for retroactively inventing timesheets  
 
 Q - what version control system do you use?  
 A - mainly SVN, with Git for some side projects  
@@ -74,12 +73,12 @@ A - now, absolutely any zero debt solution to keep the business running
 Q - what is your biggest weakness?  
 A - physically, all of my back injuries, the heaviest item that I can lift is a gaming laptop, I need to use an ergonomic keyboard, an ergonomic mouse, and an ergonomic chair, and I can't be part of any activity more physically demanding than a walk to the nearest café  
 A - no, my condition is not from Fight Club  
-A - yes, that is probably what someone would say on the way back from Fight Club
+A - yes, that is probably what someone would say on the way back from Fight Club  
 
-Q - what's your biggest strength?  
+Q - and your biggest strength?  
 A - subjectively, people do often ask me to write things for them  
 A - objectively, you can have a look at my [Big Five psychometric test results](https://bigfive-test.com/result/5b4b11be7a90d1005389026d)  
-A - tl;dr - high openness and consciousness, average extraversion and agreeableness, low neuroticism
+A - tl;dr - high openness and consciousness, average extraversion and agreeableness, low neuroticism  
 
 Q - C# vs. Java vs. PHP  
 A - Visual Studio and C# are the only things that Microsoft has done right in recent history (no, Halo was made by Bungie, not Microsoft)
@@ -87,7 +86,7 @@ A - Visual Studio and C# are the only things that Microsoft has done right in re
 Q - vi vs. Emacs  
 A - nano, **like a normal person**  
 A - otherwise Notepad++, Sublime Text, and Brackets  
-A - Notepad++ is nice for the save-as-admin plugin to update config files that live somewhere under \Program Files\ or under \inetpub\wwwroot\
+A - Notepad++ is nice for the save-as-admin plugin to update config files that live somewhere protected, i.e. under \Program Files\ or \Program Files (x86)\ or \inetpub\wwwroot\  
 
 Q - Google Cloud Platform vs. Amazon Web Services vs. Microsoft Azure  
 A - Google is the least painful to use, Microsoft is (by far) the most painful to use  
@@ -102,7 +101,7 @@ A - Red Hat from 1999 till it got unbearable, then Ubuntu LTS till it got unbear
 A - Alpine originally because it was light-enough to be fast-enough in VirtualBox on my old Pentium 4, now because it's light-enough to run at the speed of light on my late 2014 Mac mini
 
 Q - how do you pronounce Linux?  
-A - depends on how aggressively the other person is pronouncing it
+A - depends on how aggressively the other person is pronouncing it  
 
 Q - MySQL vs. PostgreSQL vs. SQL Server vs. Sybase vs. Oracle vs. IBM  
 A - I only care about having clear and consistent table and column naming conventions  
@@ -110,14 +109,14 @@ A - but DB2 does have the most complete implementation of ANSI SQL
 
 Q - Intel vs. AMD vs. Arm  
 A - if this is an assembly language question then TI MSP430  
-A - [MSP430 assembler code is easier to understand than some popular scripting languages](http://robotics.hobbizine.com/asmlau.html)
+A - [MSP430 assembler is easier to understand than some popular scripting languages](http://robotics.hobbizine.com/asmlau.html)
 
-Q - what do you do on the weekend?    
+Q - what do you do on the weekend?  
 A - hamburgers (#1 - the rib eye beef burger at Aroma)  
 A - coffee (#1 - Proof Cafe, the first shop outside the Gautrain station in Sandton)  
 
 Q - what are you passionate about?  
-A - good art direction, good copywriting, good design in general
+A - good art direction, good copywriting, good design in general  
 
 Q - what are you inversely passionate about?  
-A - database administration is a hate crime
+A - database administration is a hate crime  
