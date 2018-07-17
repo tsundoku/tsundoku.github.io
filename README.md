@@ -8,6 +8,9 @@ A - altogether maybe 20 hours a week, I've never had a job that was only coding
 Q - what else do you do?  
 A - networks, systems, security, design, copywriting  
 
+Q - design and copy, they have digital agencies for that sort of, flimflammery, you know?  
+A - I went to art school (the only school in the region that offered computer science), my work is usually better than what you'll get from the average digital agency, but probably not as good as what you'll get from Ogilvy  
+
 Q - how much time do you spend on back-end code vs. front-end code?  
 A - 90% back-end / 10% front-end  
 
