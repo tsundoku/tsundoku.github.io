@@ -2,11 +2,11 @@
 
 my CV, in FAQ format:  
 
-Q - how many time do you spend per week on actual coding?  
+Q - how much time do you spend per week on actual coding?  
 A - altogether maybe 20 hours a week, I've never had a job that was only coding  
 
 Q - what else do you do?  
-A - networks, systems, information security, design, copywriting  
+A - networks, systems, security, design, copywriting  
 
 Q - how much time do you spend on back-end code vs. front-end code?  
 A - 90% back-end / 10% front-end  
