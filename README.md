@@ -89,9 +89,9 @@ A - otherwise Notepad++, Sublime Text, and Brackets
 A - Notepad++ is nice for the save-as-admin plugin to update config files that live somewhere protected, i.e. under \Program Files\ or \Program Files (x86)\ or \inetpub\wwwroot\  
 
 Q - Google Cloud Platform vs. Amazon Web Services vs. Microsoft Azure  
-A - Google is the least painful to use, Microsoft is (by far) the most painful to use  
-A - no, Google wins, flawless victory, do or do not, Microsoft didn't even try  
-A - and Amazon treats their employees like “but what if the slave consents?” was a perfectly valid option, so, ethically, they're not an option  
+A - Google is the least painful to use, Microsoft is the most painful to use  
+A - [ethically, Amazon is not an option](https://gizmodo.com/reminder-amazon-treats-its-employees-like-shit-1792642652)  
+A - [I'm planning on trying out DigitalOcean for playing around with the Algo VPN](https://zeltser.com/deploy-algo-vpn-digital-ocean/)
 
 Q - Windows vs. macOS vs. Linux vs. BSD  
 A - BSD for firewalls, Linux for servers, macOS for desktops  
