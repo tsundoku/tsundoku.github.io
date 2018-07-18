@@ -41,14 +41,13 @@ A - no, automated testing is outsourced to another company
 
 Q - *do you use virtualization?*  
 A - not for live servers  
-A - VMware for the penetration testing environment (Kali) and disaster recovery test environment (Windows Server 2012 R2)  
-A - I had originally set it up on Hyper-V, but having to set up your own virtual network scared some of the developers, so I switched everything to VMware
+A - VMware for the penetration testing environment (Kali) and disaster recovery test environment (Windows Server)  
 
 Q - *do you use containers?*  
 A - no  
 
 Q - *do you use continuous integration / continuous delivery (CI / CD)?*  
-A - no, it's financial software, banks take weeks or months to test a single version  
+A - no, it's financial software, banks can take months to test a single version  
 
 Q - *do you use Agile?*  
 A - every client has their own interpretation of Agile, we try to use whatever each client uses, but the definition of Agile changes whenever there's a new project manager  
@@ -60,7 +59,7 @@ A - I use John Carmack's .plan file format to track what was done
 
 Q - *why do you duplicate your work across two systems?*  
 A - FogBugz only tracks official requests, which is maybe a quarter of what I do  
-A - and after a while the .plan files give you a unique view of where your time went  
+A - you can think of .plan files as a private Twitter feed of what you've just finished working on  
 
 Q - *what version control system do you use?*  
 A - mainly SVN, with GitHub for outside contractors  
