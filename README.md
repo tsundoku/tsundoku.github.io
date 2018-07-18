@@ -14,7 +14,7 @@ A - newer tools are in C# and WPF
 A - older tools were in Python and Tk  
 
 Q - *what do you do in the other 20 something hours?*  
-A - networks, systems, security, design, copywriting, the usual Mr. Robot activities  
+A - design, copywriting, networks, systems, security, the usual Mr. Robot activities  
 A - but with less morphine and more Claritin  
 
 Q - *design and copy, they have digital agencies for that sort of, flimflammery, you know?*  
@@ -25,15 +25,15 @@ A - for human copy I'm always shoplifting ideas from places like the MailChimp [
 Q - *what were the last projects that you worked on alone?*  
 A - (many) data transformation tools  
 
-Q - *what were the last projects that you worked on in a team?*  
+Q - *and the last projects that you worked on in a team?*  
 A - a web service maintenance project, I added the changes to the web service library (assigned to me because I originally made the library), and someone else added the changes to the UI  
 A - a proof of concept for integration with an enterprise stack, I made the message queue library, someone else made the web service library and the UI
 
-Q - *and how big is the software team?*  
+Q - *how big is the software team?*  
 A - 4 people when I started, 8 people now  
-A - but I also work on-site with banks and insurers, last year I was at FNB / RMB every other day
+A - but I also work on-site with banks and insurers, last year I was at FNB / RMB every other day  
 
-Q - *so, what is good code?*  
+Q - *what is good code?*  
 A - code that doesn't make me think, organising the structure of a software project is essentially the same information design problem as every other information design problem  
 
 Q - *do you use any unit tests or automated tests?*  
@@ -73,7 +73,7 @@ A - managing up / influence without authority
 
 Q - *so, business comes over to your desk and is busy talking you into an ugly hack that will add a ton of technical debt, what do you do?*  
 A - express concern, act surprised, deny everything  
-A - but seriously, technical debt can be thought of as an abstraction for defrauding the company over time  
+A - but seriously, technical debt is an abstraction for defrauding the company over time  
 
 Q - *what is your biggest weakness?*  
 A - physically, all of my back injuries, the heaviest item that I can lift is a gaming laptop, I need to use an ergonomic keyboard, an ergonomic mouse, and an ergonomic chair, and I can't be part of any activity more physically demanding than a walk to the nearest café  
@@ -83,10 +83,11 @@ A - yes, that is what a Fight Club veteran would say
 Q - *and your biggest strength?*  
 A - subjectively, people often ask me to write things for them  
 A - objectively, you can have a look at my [Big Five psychometric test results](https://bigfive-test.com/result/5b4b11be7a90d1005389026d)  
-A - tl;dr - high openness and consciousness, average extraversion and agreeableness, low neuroticism  
+A - tl;dr - high in openness and consciousness, average in extraversion and agreeableness, low in neuroticism  
 
 Q - *C# vs. Java vs. PHP*  
-A - Visual Studio and C# are the only things that Microsoft has really done right in recent history (no, Halo was made by Bungie, not Microsoft)  
+A - Visual Studio and C# are the only things that Microsoft has really done right in recent history  
+A - no, Halo was made by Bungie, not Microsoft  
 
 Q - *vi vs. Emacs*  
 A - nano, **like a normal person**  
