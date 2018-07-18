@@ -3,26 +3,26 @@
 my CV, in FAQ format:  
 
 Q - *how much time do you spend per week on actual coding?*  
-A - altogether maybe 20 hours a week, I've never had a job that was only coding  
+A - maybe 20 hours a week, I've never had a job that was only coding  
 
 Q - *and how much time do you spend on back-end code vs. front-end code?*  
 A - 90% back-end / 10% front-end  
 
-Q - *what stack are you using right now?*  
+Q - *what stack(s) are you using right now?*  
 A - for the system it's C# and WCF on the back-end, with ASP.NET, WebAPI, and Angular on the front-end  
-A - I write new tools in C# and WPF  
-A - I used to write the tools in Python, there's still a couple of Python apps that we use every day  
+A - newer tools are in C# and WPF  
+A - older tools were in Python and Tk  
 
 Q - *what do you do in the other 20 something hours?*  
 A - networks, systems, security, design, copywriting  
 
 Q - *design and copy, they have digital agencies for that sort of, flimflammery, you know?*  
-A - yes, they used one of those for the company website, and it's still good for a laugh  
+A - yes, they used an agency for the company website, [and it's still good for a laugh](https://www.adweek.com/creativity/vince-vaughn-and-costars-pose-idiotic-stock-photos-you-can-have-free-163239/)  
 A - for technical copy I write in standard technical English (yes, there is a standard)  
-A - for human copy there is, thankfully, no official brand copy style guide, [if there was an official guide it would probably look something like this](https://www.adweek.com/creativity/vince-vaughn-and-costars-pose-idiotic-stock-photos-you-can-have-free-163239/)  
+A - for human copy there's no official decree, so for now I'm shoplifting from the MailChimp [style guide](https://styleguide.mailchimp.com/) and [voice and tone guide](http://voiceandtone.com/)  
 
 Q - *what were the last projects that you worked on alone?*  
-A - (many) data transformation projects, implemented as WPF apps in C#  
+A - (many) data transformation tools  
 
 Q - *what were the last projects that you worked on in a team?*  
 A - a web service maintenance project, I added the changes to the web service library (assigned to me because I originally made the library), and someone else added the changes to the UI  
@@ -36,7 +36,7 @@ Q - *so, what is good code?*
 A - code that doesn't make me think, organising the structure of a software project is essentially the same information design problem as every other information design problem  
 
 Q - *do you use any unit tests or automated tests?*  
-A - no, automated testing is (more or less) outsourced to another company  
+A - no, automated testing is outsourced to another company  
 
 Q - *do you use virtualization?*  
 A - not for live servers  
