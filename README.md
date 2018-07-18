@@ -86,7 +86,7 @@ A - objectively, you can have a look at my [Big Five psychometric test results](
 A - tl;dr - high openness and consciousness, average extraversion and agreeableness, low neuroticism  
 
 Q - *C# vs. Java vs. PHP*  
-A - Visual Studio and C# are the only things that Microsoft has done right in recent history (no, Halo was made by Bungie, not Microsoft)
+A - Visual Studio and C# are the only things that Microsoft has really done right in recent history (no, Halo was made by Bungie, not Microsoft)  
 
 Q - *vi vs. Emacs*  
 A - nano, **like a normal person**  
@@ -104,7 +104,7 @@ A - BSD over Linux for firewalls because it has native ipfw, pf, and npf, and ba
 
 Q - *Red Hat vs. Debian*  
 A - Red Hat from 1999 till it got unbearable, then Ubuntu LTS till it got unbearable, and now Alpine and Kali and Parrot  
-A - Alpine originally because it was light-enough to be fast-enough in VirtualBox on my old Pentium 4, now because it's light-enough to run at the speed of light on my late 2014 Mac mini
+A - Alpine swaps the usual GNU stack out for BusyBox and musl libc, it's small and fast and ideal for a virtual machine  
 
 Q - *how do you pronounce Linux?*  
 A - depends on how aggressively the other person is pronouncing it  
