@@ -11,7 +11,7 @@ A - 90% back-end / 10% front-end
 Q - *what stack are you using right now?*  
 A - for the system it's C# and WCF on the back-end, with ASP.NET, WebAPI, and Angular on the front-end  
 A - I write new tools in C# and WPF  
-A - I used the write tools in Python, there's still a couple of those that we use every day  
+A - I used to write the tools in Python, there's still a couple of Python apps that we use every day  
 
 Q - *what do you do in the other 20 something hours?*  
 A - networks, systems, security, design, copywriting  
