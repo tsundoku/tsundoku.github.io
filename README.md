@@ -29,9 +29,9 @@ Q - *what were the last projects that you worked on in a team?*
 A - a web service maintenance project, I added the changes to the web service library (assigned to me because I originally made the library), and someone else added the changes to the UI  
 A - a proof of concept for integration with an enterprise stack, I made the message queue library, someone else made the web service library and the UI
 
-Q - *how big was the software team at your current job / last job?*  
-A - small teams of between 4 and 8 people  
-A - but we also work with banks and insurers, last year I was at FNB / RMB every other day
+Q - *and how big is the software team?*  
+A - 4 people when I started, 8 people now  
+A - but I also work on-site with banks and insurers, last year I was at FNB / RMB every other day
 
 Q - *so, what is good code?*  
 A - code that doesn't make me think, organising the structure of a software project is essentially the same information design problem as every other information design problem  
@@ -78,10 +78,10 @@ A - but seriously, technical debt can be thought of as an abstraction for defrau
 Q - *what is your biggest weakness?*  
 A - physically, all of my back injuries, the heaviest item that I can lift is a gaming laptop, I need to use an ergonomic keyboard, an ergonomic mouse, and an ergonomic chair, and I can't be part of any activity more physically demanding than a walk to the nearest café  
 A - no, my condition is not from Fight Club  
-A - yes, that is probably what someone would say on the way back from Fight Club  
+A - yes, that is what a Fight Club veteran would say  
 
 Q - *and your biggest strength?*  
-A - subjectively, people do often ask me to write things for them  
+A - subjectively, people often ask me to write things for them  
 A - objectively, you can have a look at my [Big Five psychometric test results](https://bigfive-test.com/result/5b4b11be7a90d1005389026d)  
 A - tl;dr - high openness and consciousness, average extraversion and agreeableness, low neuroticism  
 
