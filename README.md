@@ -18,7 +18,7 @@ A - networks, systems, security, design, copywriting
 
 Q - *design and copy, they have digital agencies for that sort of, flimflammery, you know?*  
 A - yes, they used one of those for the company website, and it's still good for a laugh  
-A - for technical copy I write in standard technical english (yes, there is a standard)  
+A - for technical copy I write in standard technical English (yes, there is a standard)  
 A - for human copy there is, thankfully, no official brand copy style guide, [if there was an official guide it would probably look something like this](https://www.adweek.com/creativity/vince-vaughn-and-costars-pose-idiotic-stock-photos-you-can-have-free-163239/)  
 
 Q - *what were the last projects that you worked on alone?*  
@@ -110,7 +110,7 @@ A - depends on how aggressively the other person is pronouncing it
 
 Q - *MySQL vs. PostgreSQL vs. SQL Server vs. Sybase vs. Oracle vs. IBM*  
 A - I only care about having clear and consistent table and column naming conventions  
-A - but DB2 does have the most complete implementation of ANSI SQL  
+A - but DB2 does have the most complete implementation of ANSI SQL (which gives you luxuries like INTERSECT)  
 
 Q - *Intel vs. AMD vs. Arm*  
 A - if this is an assembly language question then TI MSP430  
