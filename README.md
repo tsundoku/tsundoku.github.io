@@ -18,8 +18,8 @@ A - networks, systems, security, design, copywriting
 
 Q - *design and copy, they have digital agencies for that sort of, flimflammery, you know?*  
 A - yes, they used one of those for the company website, and it's still good for a laugh  
-A - with technical copy I stick to an ASD STE-100 style of writing  
-A - with human copy the unofficial brand copy style guide is a work in progress  
+A - for technical copy I write in standard technical english (yes, there is a standard)  
+A - for human copy there is, thankfully, no official brand copy style guide, [because if there was an official guide it would probably look like this](https://www.adweek.com/creativity/vince-vaughn-and-costars-pose-idiotic-stock-photos-you-can-have-free-163239/)  
 
 Q - *what were the last projects that you worked on alone?*  
 A - (many) data transformation projects, implemented as WPF apps in C#  
@@ -95,7 +95,7 @@ A - Notepad++ for the save-as-admin plugin to update config files that live some
 Q - *Google Cloud Platform vs. Amazon Web Services vs. Microsoft Azure vs. DigitalOcean*  
 A - Google is the least painful to use, Microsoft is the most painful to use  
 A - [ethically, Amazon is in last place](https://gizmodo.com/reminder-amazon-treats-its-employees-like-shit-1792642652)  
-A - [I'm planning on trying DigitalOcean for an Algo VPN](https://zeltser.com/deploy-algo-vpn-digital-ocean/)
+A - [I want to try DigitalOcean for my own Algo VPN](https://zeltser.com/deploy-algo-vpn-digital-ocean/)
 
 Q - *Windows vs. macOS vs. Linux vs. BSD*  
 A - BSD for firewalls, Linux for servers, macOS for desktops  
