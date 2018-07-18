@@ -19,7 +19,7 @@ A - networks, systems, security, design, copywriting
 Q - *design and copy, they have digital agencies for that sort of, flimflammery, you know?*  
 A - yes, they used one of those for the company website, and it's still good for a laugh  
 A - for technical copy I write in standard technical english (yes, there is a standard)  
-A - for human copy there is, thankfully, no official brand copy style guide, [because if there was an official guide it would probably look like this](https://www.adweek.com/creativity/vince-vaughn-and-costars-pose-idiotic-stock-photos-you-can-have-free-163239/)  
+A - for human copy there is, thankfully, no official brand copy style guide, [if there was an official guide it would probably look something like this](https://www.adweek.com/creativity/vince-vaughn-and-costars-pose-idiotic-stock-photos-you-can-have-free-163239/)  
 
 Q - *what were the last projects that you worked on alone?*  
 A - (many) data transformation projects, implemented as WPF apps in C#  
