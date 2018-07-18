@@ -9,17 +9,18 @@ Q - *and how much time do you spend on back-end code vs. front-end code?*
 A - 90% back-end / 10% front-end  
 
 Q - *what stack(s) are you using right now?*  
-A - for the system it's C# and WCF on the back-end, with ASP.NET, WebAPI, and Angular on the front-end  
+A - for the web systems it's C# and WCF on the back-end, with Web API and Angular on the front-end  
 A - newer tools are in C# and WPF  
 A - older tools were in Python and Tk  
 
 Q - *what do you do in the other 20 something hours?*  
-A - networks, systems, security, design, copywriting  
+A - networks, systems, security, design, copywriting, the usual Mr. Robot activities  
+A - but with less morphine and more Claritin  
 
 Q - *design and copy, they have digital agencies for that sort of, flimflammery, you know?*  
 A - yes, they used an agency for the company website, [and it's still good for a laugh](https://www.adweek.com/creativity/vince-vaughn-and-costars-pose-idiotic-stock-photos-you-can-have-free-163239/)  
-A - for technical copy I write in standard technical English (yes, there is a standard)  
-A - for human copy there's no official decree, so for now I'm shoplifting from the MailChimp [style guide](https://styleguide.mailchimp.com/) and [voice and tone guide](http://voiceandtone.com/)  
+A - for technical copy I write in standard technical English, which is similar to writing for translation  
+A - for human copy I'm always shoplifting ideas from places like the MailChimp [style guide](https://styleguide.mailchimp.com/) and [voice and tone guide](http://voiceandtone.com/)  
 
 Q - *what were the last projects that you worked on alone?*  
 A - (many) data transformation tools  
@@ -29,8 +30,8 @@ A - a web service maintenance project, I added the changes to the web service li
 A - a proof of concept for integration with an enterprise stack, I made the message queue library, someone else made the web service library and the UI
 
 Q - *how big was the software team at your current job / last job?*  
-A - small teams only, between 4 and 8 people  
-A - but I've also worked on-site with banks and insurers, e.g. last year I was at FNB/RMB every other day
+A - small teams of between 4 and 8 people  
+A - but we also work with banks and insurers, last year I was at FNB / RMB every other day
 
 Q - *so, what is good code?*  
 A - code that doesn't make me think, organising the structure of a software project is essentially the same information design problem as every other information design problem  
@@ -59,9 +60,10 @@ A - I use John Carmack's .plan file format to track what was done
 
 Q - *why do you duplicate your work across two systems?*  
 A - FogBugz only tracks official requests, which is maybe a quarter of what I do  
+A - and after a while the .plan files give you a unique view of where your time went  
 
 Q - *what version control system do you use?*  
-A - mainly SVN, with GitHub for working with outside contractors  
+A - mainly SVN, with GitHub for outside contractors  
 
 Q - *how do you keep your skills up to date?*  
 A - I watch ArsDigita videos (Shai Simonson is an underappreciated genius), Robert Sedgewick videos, Programming with Mosh videos, CBT Nuggets videos, etc.  
@@ -95,7 +97,7 @@ A - Notepad++ for the save-as-admin plugin to update config files that live some
 Q - *Google Cloud Platform vs. Amazon Web Services vs. Microsoft Azure vs. DigitalOcean*  
 A - Google is the least painful to use, Microsoft is the most painful to use  
 A - [ethically, Amazon is in last place](https://gizmodo.com/reminder-amazon-treats-its-employees-like-shit-1792642652)  
-A - [I want to try DigitalOcean for my own Algo VPN](https://zeltser.com/deploy-algo-vpn-digital-ocean/)
+A - [I must still try DigitalOcean, I want to use it for my own Algo VPN](https://zeltser.com/deploy-algo-vpn-digital-ocean/)  
 
 Q - *Windows vs. macOS vs. Linux vs. BSD*  
 A - BSD for firewalls, Linux for servers, macOS for desktops  
@@ -110,7 +112,7 @@ A - depends on how aggressively the other person is pronouncing it
 
 Q - *MySQL vs. PostgreSQL vs. SQL Server vs. Sybase vs. Oracle vs. IBM*  
 A - I only care about having clear and consistent table and column naming conventions  
-A - but DB2 does have the most complete implementation of ANSI SQL (which gives you luxuries like INTERSECT)  
+A - but DB2 does have the most complete implementation of ANSI SQL, which gives you luxuries like INTERSECT  
 
 Q - *Intel vs. AMD vs. Arm*  
 A - if this is an assembly language question then TI MSP430  
@@ -119,6 +121,7 @@ A - [MSP430 assembler is easier to understand than some popular scripting langua
 Q - *what do you do on the weekend?*  
 A - hamburgers (#1 - the rib eye beef burger at Aroma)  
 A - coffee (#1 - Proof Cafe, the first shop outside the Gautrain station in Sandton)  
+A - comic books (#1 - Sandman be Neil Gaiman)  
 
 Q - *what are you passionate about?*  
 A - good art direction, good copywriting, good design in general  
