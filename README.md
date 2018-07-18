@@ -8,7 +8,7 @@ A - maybe 20 hours a week, I've never had a job that was only coding
 Q - *and how much time do you spend on back-end code vs. front-end code?*  
 A - 90% back-end / 10% front-end  
 
-Q - *what stack(s) are you using right now?*  
+Q - *what stacks are you using right now?*  
 A - for the web systems it's C# and WCF on the back-end, with Web API and Angular on the front-end  
 A - newer tools are in C# and WPF  
 A - older tools were in Python and Tk  
@@ -39,15 +39,15 @@ A - code that doesn't make me think, organising the structure of a software proj
 Q - *do you use any unit tests or automated tests?*  
 A - no, automated testing is outsourced to another company  
 
+Q - *do you use continuous integration / continuous delivery / continuous deployment?*  
+A - no, it's financial software, banks can sometimes take months to test and accept a single version  
+
 Q - *do you use virtualization?*  
 A - not for live servers  
 A - VMware for the penetration testing environment (Kali) and disaster recovery test environment (Windows Server)  
 
 Q - *do you use containers?*  
 A - no  
-
-Q - *do you use continuous integration / continuous delivery (CI / CD)?*  
-A - no, it's financial software, banks can take months to test a single version  
 
 Q - *do you use Agile?*  
 A - every client has their own interpretation of Agile, we try to use whatever each client uses, but the definition of Agile changes whenever there's a new project manager  
@@ -78,7 +78,7 @@ A - but seriously, technical debt is an abstraction for defrauding the company o
 Q - *what is your biggest weakness?*  
 A - physically, all of my back injuries, the heaviest item that I can lift is a gaming laptop, I need to use an ergonomic keyboard, an ergonomic mouse, and an ergonomic chair, and I can't be part of any activity more physically demanding than a walk to the nearest café  
 A - no, my condition is not from Fight Club  
-A - yes, that is what a Fight Club veteran would say  
+A - yes, that is just what a Fight Club veteran would say  
 
 Q - *and your biggest strength?*  
 A - subjectively, people often ask me to write things for them  
@@ -92,7 +92,7 @@ A - no, Halo was made by Bungie, not Microsoft
 Q - *vi vs. Emacs*  
 A - nano, **like a normal person**  
 A - otherwise Notepad++, Sublime Text, and Brackets  
-A - Notepad++ for the save-as-admin plugin to update config files that live somewhere protected, i.e. under \Program Files\ or \Program Files (x86)\ or \inetpub\wwwroot\  
+A - Notepad++ for the save-as-admin plugin to update config files that live somewhere protected  
 
 Q - *Google Cloud Platform vs. Amazon Web Services vs. Microsoft Azure vs. DigitalOcean*  
 A - Google is the least painful to use, Microsoft is the most painful to use  
@@ -101,7 +101,7 @@ A - [I must still try DigitalOcean, I want to use it for my own Algo VPN](https:
 
 Q - *Windows vs. macOS vs. Linux vs. BSD*  
 A - BSD for firewalls, Linux for servers, macOS for desktops  
-A - BSD over Linux for firewalls because it has native ipfw, pf, and npf, and based on past experience BSD will only go down if the hardware explodes, a handy feature for a box that's assumed to be carrier grade  
+A - BSD has native ipfw, pf, and npf, and based on past experience BSD will only go down if the hardware explodes, a handy feature for a box that's assumed to be carrier grade  
 
 Q - *Red Hat vs. Debian*  
 A - Red Hat from 1999 till it got unbearable, then Ubuntu LTS till it got unbearable, and now Alpine and Kali and Parrot  
