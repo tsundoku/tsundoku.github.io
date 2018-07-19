@@ -36,7 +36,7 @@ A - but I also work on-site with banks and insurers, last year I was at FNB / RM
 Q - *what is good code?*  
 A - code that doesn't make me think, organising the structure of a software project is essentially the same information design problem as every other information design problem  
 
-Q - *do you use any unit tests or automated tests?*  
+Q - *do you use any unit tests or automated tests or test driven development or behaviour driven development?*  
 A - no, automated testing is outsourced to another company  
 
 Q - *do you use continuous integration / continuous delivery / continuous deployment?*  
@@ -62,7 +62,7 @@ A - FogBugz only tracks official requests, which is maybe a quarter of what I do
 A - you can think of .plan files as a private Twitter feed of what you've just finished working on  
 
 Q - *what version control system do you use?*  
-A - mainly SVN, with GitHub for outside contractors  
+A - SVN, with GitHub for any outside contractors  
 
 Q - *how do you keep your skills up to date?*  
 A - I watch ArsDigita videos (Shai Simonson is an underappreciated genius), Robert Sedgewick videos, Programming with Mosh videos, CBT Nuggets videos, etc.  
