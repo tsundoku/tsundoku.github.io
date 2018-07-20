@@ -2,6 +2,15 @@
 
 my CV, in FAQ format:  
 
+Q - *what can you do for me today?*  
+A - code, systems, networks, security, design, copywriting  
+A - the usual Mr. Robot activities, but with less morphine and more Claritin  
+
+Q - *design and copy, they have digital agencies for that sort of, flimflammery, you know?*  
+A - yes, they used an agency for the company website, [and it's still good for a laugh](https://www.adweek.com/creativity/vince-vaughn-and-costars-pose-idiotic-stock-photos-you-can-have-free-163239/)  
+A - for technical copy I write in standard technical English, which is similar to writing for translation  
+A - for human copy I'm always shoplifting ideas from places like the MailChimp [style guide](https://styleguide.mailchimp.com/) and [voice and tone guide](http://voiceandtone.com/)  
+
 Q - *how much time do you spend per week on actual coding?*  
 A - maybe 20 hours a week, I've never had a job that was only coding  
 
@@ -13,17 +22,9 @@ A - for the web systems it's C# and WCF on the back-end, with Web API and Angula
 A - newer tools are in C# and WPF  
 A - older tools were in Python and Tk  
 
-Q - *what do you do in the other 20 something hours?*  
-A - design, copywriting, networks, systems, security, the usual Mr. Robot activities  
-A - but with less morphine and more Claritin  
-
-Q - *design and copy, they have digital agencies for that sort of, flimflammery, you know?*  
-A - yes, they used an agency for the company website, [and it's still good for a laugh](https://www.adweek.com/creativity/vince-vaughn-and-costars-pose-idiotic-stock-photos-you-can-have-free-163239/)  
-A - for technical copy I write in standard technical English, which is similar to writing for translation  
-A - for human copy I'm always shoplifting ideas from places like the MailChimp [style guide](https://styleguide.mailchimp.com/) and [voice and tone guide](http://voiceandtone.com/)  
-
 Q - *what were the last projects that you worked on alone?*  
 A - (many) data transformation tools  
+A - (many) late night installations  
 
 Q - *and the last projects that you worked on in a team?*  
 A - a web service maintenance project, I added the changes to the web service library (assigned to me because I originally made the library), and someone else added the changes to the UI  
@@ -36,23 +37,6 @@ A - but I also work on-site with banks and insurers, last year I was at FNB / RM
 Q - *what is good code?*  
 A - code that doesn't make me think, organising the structure of a software project is essentially the same information design problem as every other information design problem  
 
-Q - *do you use any unit tests or automated tests or test driven development or behaviour driven development?*  
-A - no, automated testing is outsourced to another company  
-
-Q - *do you use continuous integration / continuous delivery / continuous deployment?*  
-A - no, it's financial software, banks can sometimes take months to test and accept a single version  
-
-Q - *do you use virtualization?*  
-A - not for live servers  
-A - VMware for the penetration testing environment (Kali) and disaster recovery test environment (Windows Server)  
-
-Q - *do you use containers?*  
-A - no  
-
-Q - *do you use Agile?*  
-A - every client has their own interpretation of Agile, we try to use whatever each client uses, but the definition of Agile changes whenever there's a new project manager  
-A - okay, okay, “scrum master”  
-
 Q - *how do you get things done / what project management tools do you use?*  
 A - everyone in the company uses FogBugz to track what to do  
 A - I use John Carmack's .plan file format to track what was done  
@@ -61,11 +45,8 @@ Q - *why do you duplicate your work across two systems?*
 A - FogBugz only tracks official requests, which is maybe a quarter of what I do  
 A - you can think of .plan files as a private Twitter feed of what you've just finished working on  
 
-Q - *what version control system do you use?*  
-A - SVN, with GitHub for any outside contractors  
-
 Q - *how do you keep your skills up to date?*  
-A - I watch ArsDigita videos (Shai Simonson is an underappreciated genius), Robert Sedgewick videos, Programming with Mosh videos, CBT Nuggets videos, etc.  
+A - I watch the old ArsDigita videos, Robert Sedgewick videos, Programming with Mosh videos, Andy Maslen videos, CBT Nuggets videos, etc.  
 A - right now I'm watching the theory of computation videos by Shai Simonson  
 
 Q - *what is the most difficult / challenging part of your current job / last job?*  
@@ -101,7 +82,7 @@ A - [I must still try DigitalOcean, I want to use it for my own Algo VPN](https:
 
 Q - *Windows vs. macOS vs. Linux vs. BSD*  
 A - BSD for firewalls, Linux for servers, macOS for desktops  
-A - BSD has native ipfw, pf, and npf, and based on past experience BSD will only go down if the hardware explodes, a handy feature for a box that's assumed to be carrier grade  
+A - BSD over Linux because BSD has native ipfw, pf, and npf, and based on past experience BSD will only go down if the hardware explodes, a handy feature for a box that's assumed to be carrier grade  
 
 Q - *Red Hat vs. Debian*  
 A - Red Hat from 1999 till it got unbearable, then Ubuntu LTS till it got unbearable, and now Alpine and Kali and Parrot  
