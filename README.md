@@ -9,7 +9,7 @@ A - the usual Mr. Robot activities, but with less morphine and more Claritin
 Q - *design and copy, they have digital agencies for that sort of, flimflammery, you know?*  
 A - yes, they used an agency for the company website, [and it's still good for a laugh](https://www.adweek.com/creativity/vince-vaughn-and-costars-pose-idiotic-stock-photos-you-can-have-free-163239/)  
 A - for technical copy I write in simplified technical English  
-A - no, simplified technical English isn't just American English, but it is similar to writing for translation  
+A - no, simplified technical English isn't just American celebrity English, it's similar to how you'd write for translation  
 A - for human copy I'm always shoplifting ideas from places like the MailChimp [style guide](https://styleguide.mailchimp.com/) and [voice and tone guide](http://voiceandtone.com/)  
 
 Q - *how much time do you spend per week on actual coding?*  
