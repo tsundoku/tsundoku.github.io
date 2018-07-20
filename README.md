@@ -51,8 +51,8 @@ Q - *how do you keep your skills up to date?*
 A - I watch the old ArsDigita videos, Robert Sedgewick videos, Programming with Mosh videos, Andy Maslen videos, CBT Nuggets videos, etc.  
 A - right now I'm watching the theory of computation videos by Shai Simonson  
 
-Q - *what is the most difficult / challenging part of your current job / last job?*  
-A - managing up / influence without authority  
+Q - *what is the most difficult or most challenging part of your job?*  
+A - managing up, influence without authority  
 
 Q - *so, business comes over to your desk and is busy talking you into an ugly hack that will add a ton of technical debt, what do you do?*  
 A - express concern, act surprised, deny everything  
