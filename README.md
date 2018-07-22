@@ -18,7 +18,7 @@ A - good copywriting is an essential part of good code
 Q - *and how much time do you spend coding?*  
 A - maybe half of my time at work, I've never had a job that was only coding  
 
-Q - *and the split between back-end code and front-end code?*  
+Q - *how much time do spend on back-end code vs. front-end code?*  
 A - 90% back-end / 10% front-end  
 
 Q - *what stacks are you using right now?*  
@@ -49,7 +49,7 @@ A - FogBugz only tracks official requests, which is maybe a quarter of what I do
 A - you can think of .plan files as a private Twitter feed of what you've just finished working on  
 
 Q - *how do you keep your skills up to date?*  
-A - videos, right now I'm watching the theory of computation videos by Shai Simonson  
+A - videos, right now I'm watching the [theory of computation videos by Shai Simonson](http://www.aduni.org/courses/theory/)  
 A - and I used to do the occasional code challenge at CodeEval, before they closed down, now I'm on HackerRank  
 
 Q - *what is the most difficult or most challenging part of your job?*  
@@ -95,7 +95,7 @@ A - ethically, [Amazon is in last place](https://gizmodo.com/reminder-amazon-tre
 
 Q - *Windows vs. macOS vs. Linux vs. BSD*  
 A - BSD for firewalls, Linux for servers, macOS for desktops  
-A - and, if your firewall budget isn't zero, Cisco ASA with all subscriptions, or Cisco Meraki with all subscriptions  
+A - and, if your firewall budget isn't zero, Cisco ASA with all subscriptions / Cisco Meraki with all subscriptions  
 
 Q - *Red Hat vs. Debian*  
 A - Red Hat from 1999 till it got unbearable, then Ubuntu LTS till it got unbearable, and now Alpine and Kali and Parrot  
