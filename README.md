@@ -18,7 +18,7 @@ A - good copywriting is an essential part of good code
 Q - *and how much time do you spend on coding?*  
 A - in a good week maybe half of the week, I've never had a job that was only coding  
 
-Q - *and the split between the time you spend on back-end code vs. front-end code?*  
+Q - *and the split between back-end code and front-end code?*  
 A - 90% back-end / 10% front-end  
 
 Q - *what stacks are you using right now?*  
@@ -49,8 +49,8 @@ A - FogBugz only tracks official requests, which is maybe a quarter of what I do
 A - you can think of .plan files as a private Twitter feed of what you've just finished working on  
 
 Q - *how do you keep your skills up to date?*  
-A - I watch (many, many) videos, right now I'm watching the theory of computation videos by Shai Simonson  
-A - yes, I also used to read books and blogs, the future is now old man  
+A - right now I'm watching the theory of computation videos by Shai Simonson  
+A - I used to do the occasional code challenge at CodeEval, now that they've closed down I've switched to HackerRank  
 
 Q - *what is the most difficult or most challenging part of your job?*  
 A - influence without authority, schmoozing  
@@ -84,7 +84,7 @@ A - ethically, [Amazon is in last place](https://gizmodo.com/reminder-amazon-tre
 
 Q - *Windows vs. macOS vs. Linux vs. BSD*  
 A - BSD for firewalls, Linux for servers, macOS for desktops  
-A - but you'd probably be better off with a Cisco ASA firewall instead of BSD or Linux  
+A - and, if your firewall budget isn't zero, Cisco ASA with all subscriptions, or Cisco Meraki with all subscriptions  
 
 Q - *Red Hat vs. Debian*  
 A - Red Hat from 1999 till it got unbearable, then Ubuntu LTS till it got unbearable, and now Alpine and Kali and Parrot  
@@ -104,7 +104,6 @@ A - [MSP430 assembler is easier to understand than some popular scripting langua
 Q - *what do you do on the weekends?*  
 A - hamburgers (#1 - the rib eye beef burger at Aroma)  
 A - coffee (#1 - Proof Cafe, the first shop outside the Gautrain station in Sandton)  
-A - comic books (#1 - Sandman be Neil Gaiman)  
 
 Q - *what are you passionate about?*  
 A - good art direction, good copywriting, good design in general  
