@@ -8,8 +8,10 @@ A - the usual Mr. Robot activities, but with less morphine and more Claritin
 
 Q - *design and copy, they have digital agencies for that sort of, flimflammery, you know?*  
 A - yes, they used an agency for the company website, [and it's still good for a laugh](https://www.adweek.com/creativity/vince-vaughn-and-costars-pose-idiotic-stock-photos-you-can-have-free-163239/)  
-A - for technical copy I write in simplified technical English  
-A - for human copy I'm always shoplifting ideas from places like the MailChimp [style guide](https://styleguide.mailchimp.com/) and [voice and tone guide](http://voiceandtone.com/)  
+A - there are rules for good design, good copy, and good code, and it's often the same rules  
+
+Q - *what is good code?*  
+A - code that doesn't make me think, organising the structure of a software project is essentially the same information design problem as every other information design problem  
 
 Q - *how much time do you spend per week on actual coding?*  
 A - maybe 20 hours a week, I've never had a job that was only coding  
@@ -32,10 +34,7 @@ A - a proof of concept for integration with an enterprise stack, I made the mess
 
 Q - *how big is the software team?*  
 A - 4 people when I started, 8 people now  
-A - and I'm often on-site with banks and insurers, they employ between 4 and 8 people to say hello to you on the way to your hot desk 
-
-Q - *what is good code?*  
-A - code that doesn't make me think, organising the structure of a software project is essentially the same information design problem as every other information design problem  
+A - and I'm often on-site with banks and insurers, they employ between 4 and 8 people to say hello to you on the way to your hot desk   
 
 Q - *how do you get things done / what project management tools do you use?*  
 A - everyone in the company uses FogBugz to track what to do  
