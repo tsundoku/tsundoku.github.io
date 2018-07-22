@@ -72,7 +72,8 @@ A - tl;dr - high in openness and consciousness, average in extraversion and agre
 Q - *what do you do on the weekends?*  
 A - hamburgers (#1 - the rib eye beef burger at Aroma)  
 A - coffee (#1 - Proof Cafe, the first shop outside the Gautrain station in Sandton)  
-A - and I'm always trying to find the time to draw  
+A - comic books (#1 - Sandman by Neil Gaiman)  
+A - and I'm always trying to find the time to draw, right now I'm going through the [Drawabox lessons by Irshad Karim](http://drawabox.com/)  
 
 Q - *Staedtler Pigment Liner vs. Sakura Pigma Micron*  
 A - it comes down to availability, we pay local prices for Staedtler and import prices for Sakura  
