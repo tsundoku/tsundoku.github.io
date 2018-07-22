@@ -72,7 +72,11 @@ A - tl;dr - high in openness and consciousness, average in extraversion and agre
 Q - *what do you do on the weekends?*  
 A - hamburgers (#1 - the rib eye beef burger at Aroma)  
 A - coffee (#1 - Proof Cafe, the first shop outside the Gautrain station in Sandton)  
-A - I've always been learning to draw, but there's never enough time  
+A - and I'm always trying to find the time to draw  
+
+Q - Staedtler Pigment Liner vs. Sakura Pigma Micron  
+A - it comes down to availability, we pay local prices for Staedtler and import prices for Sakura  
+A - but I did grab a handful of Sakura when I saw them in a small art shop when I was on holiday in Portugal  
 
 Q - *what are you passionate about?*  
 A - good art direction, good copywriting, and good design in general  
