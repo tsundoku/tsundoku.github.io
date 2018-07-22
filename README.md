@@ -74,7 +74,7 @@ A - hamburgers (#1 - the rib eye beef burger at Aroma)
 A - coffee (#1 - Proof Cafe, the first shop outside the Gautrain station in Sandton)  
 A - and I'm always trying to find the time to draw  
 
-Q - Staedtler Pigment Liner vs. Sakura Pigma Micron  
+Q - *Staedtler Pigment Liner vs. Sakura Pigma Micron*  
 A - it comes down to availability, we pay local prices for Staedtler and import prices for Sakura  
 A - but I did grab a handful of Sakura when I saw them in a small art shop when I was on holiday in Portugal  
 
