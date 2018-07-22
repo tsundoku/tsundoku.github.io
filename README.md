@@ -42,7 +42,7 @@ A - and I'm often on-site with banks and insurers, they employ between 4 and 8 p
 
 Q - *how do you get things done / what project management tools do you use?*  
 A - everyone in the company uses FogBugz to track what to do  
-A - I use John Carmack's .plan file format to track what was done  
+A - I use a variation of John Carmack's .plan file format to track what was done  
 
 Q - *why do you duplicate your work across two systems?*  
 A - FogBugz only tracks official requests, which is maybe a quarter of what I do  
@@ -53,7 +53,7 @@ A - I watch the old ArsDigita videos, Robert Sedgewick videos, Programming with 
 A - right now I'm watching the theory of computation videos by Shai Simonson  
 
 Q - *what is the most difficult or most challenging part of your job?*  
-A - managing up, influence without authority  
+A - influence without authority  
 
 Q - *so, business comes over to your desk and is busy talking you into an ugly hack that will add a ton of technical debt, what do you do?*  
 A - express concern, act surprised, deny everything  
@@ -81,6 +81,7 @@ A - Notepad++ for the save-as-admin plugin to update config files that live some
 Q - *Google Cloud Platform vs. Amazon Web Services vs. Microsoft Azure vs. DigitalOcean*  
 A - Google is the least painful to use, Microsoft is the most painful to use  
 A - [ethically, Amazon is in last place](https://gizmodo.com/reminder-amazon-treats-its-employees-like-shit-1792642652)  
+A - [although Google is fighting hard to beat Amazon in a race to the bottom of humanity](https://arstechnica.com/tech-policy/2018/01/lawsuit-goes-after-alleged-anti-conservative-bias-at-google/)  
 A - [I want to try DigitalOcean as a host for my own VPN](https://zeltser.com/deploy-algo-vpn-digital-ocean/)  
 
 Q - *Windows vs. macOS vs. Linux vs. BSD*  
