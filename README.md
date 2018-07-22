@@ -9,9 +9,7 @@ A - the usual Mr. Robot activities, but with less morphine and more Claritin
 Q - *design and copy, they have digital agencies for that sort of, flimflammery, you know?*  
 A - yes, they used an agency for the company website, [and it's still good for a laugh](https://www.adweek.com/creativity/vince-vaughn-and-costars-pose-idiotic-stock-photos-you-can-have-free-163239/)  
 A - for technical copy I write in simplified technical English  
-A - no, simplified technical English is similar to how you'd write for translation, it's not celebrity fashion disaster English  
 A - for human copy I'm always shoplifting ideas from places like the MailChimp [style guide](https://styleguide.mailchimp.com/) and [voice and tone guide](http://voiceandtone.com/)  
-A - no, you're aiming for a **likable** human voice and tone, celebrity fashion disaster English goes the other way  
 
 Q - *how much time do you spend per week on actual coding?*  
 A - maybe 20 hours a week, I've never had a job that was only coding  
@@ -34,7 +32,7 @@ A - a proof of concept for integration with an enterprise stack, I made the mess
 
 Q - *how big is the software team?*  
 A - 4 people when I started, 8 people now  
-A - but I also work on-site with banks and insurers, last year I was at FNB / RMB every other day  
+A - but I'm often on-site with banks and insurers  
 
 Q - *what is good code?*  
 A - code that doesn't make me think, organising the structure of a software project is essentially the same information design problem as every other information design problem  
