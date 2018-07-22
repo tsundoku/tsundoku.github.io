@@ -78,11 +78,9 @@ A - nano, **like a normal person**
 A - on Windows I use Notepad++, Sublime Text, and Brackets  
 A - Notepad++ for the save-as-admin plugin to update config files that live somewhere protected  
 
-Q - *Google Cloud Platform vs. Amazon Web Services vs. Microsoft Azure vs. DigitalOcean*  
+Q - *Google Cloud Platform vs. Amazon Web Services vs. Microsoft Azure*  
 A - Google is the least painful to use, Microsoft is the most painful to use  
-A - [ethically, Amazon is in last place](https://gizmodo.com/reminder-amazon-treats-its-employees-like-shit-1792642652)  
-A - [although Google is fighting hard to beat Amazon in a race to the bottom of humanity](https://arstechnica.com/tech-policy/2018/01/lawsuit-goes-after-alleged-anti-conservative-bias-at-google/)  
-A - [I want to try DigitalOcean as a host for my own VPN](https://zeltser.com/deploy-algo-vpn-digital-ocean/)  
+A - [ethically, Amazon is in last place](https://gizmodo.com/reminder-amazon-treats-its-employees-like-shit-1792642652), [with Google hot at it's heels in second last place](https://arstechnica.com/tech-policy/2018/01/lawsuit-goes-after-alleged-anti-conservative-bias-at-google/)  
 
 Q - *Windows vs. macOS vs. Linux vs. BSD*  
 A - BSD for firewalls, Linux for servers, macOS for desktops  
