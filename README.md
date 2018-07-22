@@ -8,12 +8,12 @@ A - the usual Mr. Robot activities, but with less morphine and more Claritin
 
 Q - *design and copy, they have digital agencies for that sort of, flimflammery, you know?*  
 A - yes, they used an agency for the company website, [and it's still good for a laugh](https://www.adweek.com/creativity/vince-vaughn-and-costars-pose-idiotic-stock-photos-you-can-have-free-163239/)  
-A - there are rules for good design, good copy, and good code, it's often handy to know the similarities between them  
+A - there are rules for good design, good copy, and good code, and it's handy to know the similarities between them  
 
 Q - *so, what is good code?*  
 A - code that doesn't make me think  
 A - “there are only two hard things in computer science: cache invalidation and naming things”  
-A - good copywriting an essential part of good code  
+A - good copywriting is an essential part of good code  
 
 Q - *and how much time do you spend on coding?*  
 A - in a good week maybe half of the week, I've never had a job that was only coding  
@@ -38,7 +38,7 @@ A - a proof of concept for integration with an enterprise stack, I made the mess
 
 Q - *how big is the software team?*  
 A - 4 people when I started, 8 people now  
-A - and I'm often on-site with banks and insurers, they employ between 4 and 8 people to say hello to you on the way to your hot desk   
+A - I'm often on-site with banks, they employ between 4 and 8 people to say hello to you on the way to your hot desk   
 
 Q - *how do you get things done / what project management tools do you use?*  
 A - everyone in the company uses FogBugz to track what to do  
@@ -49,11 +49,11 @@ A - FogBugz only tracks official requests, which is maybe a quarter of what I do
 A - you can think of .plan files as a private Twitter feed of what you've just finished working on  
 
 Q - *how do you keep your skills up to date?*  
-A - I watch the old ArsDigita videos, Robert Sedgewick videos, Programming with Mosh videos, Andy Maslen videos, CBT Nuggets videos, etc.  
-A - right now I'm watching the theory of computation videos by Shai Simonson  
+A - I watch (many, many) videos, right now I'm watching the theory of computation videos by Shai Simonson  
+A - yes, I also used to read books and blogs, the future is now old man  
 
 Q - *what is the most difficult or most challenging part of your job?*  
-A - influence without authority  
+A - influence without authority, schmoozing  
 
 Q - *so, business comes over to your desk and is busy talking you into an ugly hack that will add a ton of technical debt, what do you do?*  
 A - express concern, act surprised, deny everything  
@@ -70,7 +70,7 @@ A - objectively, you can have a look at my [Big Five psychometric test results](
 A - tl;dr - high in openness and consciousness, average in extraversion and agreeableness, low in neuroticism  
 
 Q - *C# vs. Java vs. PHP*  
-A - Visual Studio and C# are the only things that Microsoft has really done right in recent history  
+A - C# and Visual Studio are the only things that Microsoft has really done right in recent history  
 A - no, Halo was made by Bungie, not Microsoft  
 
 Q - *vi vs. Emacs*  
@@ -84,11 +84,11 @@ A - ethically, [Amazon is in last place](https://gizmodo.com/reminder-amazon-tre
 
 Q - *Windows vs. macOS vs. Linux vs. BSD*  
 A - BSD for firewalls, Linux for servers, macOS for desktops  
-A - BSD over Linux because BSD has native ipfw, pf, and npf, and based on past experience BSD will only go down if the hardware explodes, a handy feature for a box that's assumed to be carrier grade  
+A - but you'd probably be better off with a Cisco ASA firewall instead of BSD or Linux  
 
 Q - *Red Hat vs. Debian*  
 A - Red Hat from 1999 till it got unbearable, then Ubuntu LTS till it got unbearable, and now Alpine and Kali and Parrot  
-A - Alpine swaps the usual GNU stack out for BusyBox and musl libc, it's small and fast and ideal for a virtual machine  
+A - Alpine is small and fast and ideal for a virtual machine, and it uses BusyBox which I also have on my Android tablet  
 
 Q - *how do you pronounce Linux?*  
 A - depends on how aggressively the other person is pronouncing it  
