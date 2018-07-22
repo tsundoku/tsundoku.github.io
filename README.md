@@ -3,7 +3,7 @@
 my CV, in FAQ format:  
 
 Q - *what can you do for me today?*  
-A - code, systems, networks, security, design, copywriting  
+A - code, systems, networks, information security, design, copywriting  
 A - the usual Mr. Robot activities, but with less morphine and more Claritin  
 
 Q - *design and copy, they have digital agencies for that sort of, flimflammery, you know?*  
@@ -15,8 +15,8 @@ A - code that doesn't make me think
 A - “there are only two hard things in computer science: cache invalidation and naming things”  
 A - good copywriting is an essential part of good code  
 
-Q - *and how much time do you spend on coding?*  
-A - in a good week maybe half of the week, I've never had a job that was only coding  
+Q - *and how much time do you spend coding?*  
+A - maybe half of my time at work, I've never had a job that was only coding  
 
 Q - *and the split between back-end code and front-end code?*  
 A - 90% back-end / 10% front-end  
@@ -38,7 +38,7 @@ A - a proof of concept for integration with an enterprise stack, I made the mess
 
 Q - *how big is the software team?*  
 A - 4 people when I started, 8 people now  
-A - I'm often on-site with banks, they employ between 4 and 8 people to say hello to you on the way to your hot desk   
+A - and I'm often on-site with banks, they employ between 4 and 8 people just to say hello to you on the way to your hot desk   
 
 Q - *how do you get things done / what project management tools do you use?*  
 A - everyone in the company uses FogBugz to track what to do  
@@ -49,8 +49,8 @@ A - FogBugz only tracks official requests, which is maybe a quarter of what I do
 A - you can think of .plan files as a private Twitter feed of what you've just finished working on  
 
 Q - *how do you keep your skills up to date?*  
-A - right now I'm watching the theory of computation videos by Shai Simonson  
-A - I used to do the occasional code challenge at CodeEval, now that they've closed down I've switched to HackerRank  
+A - videos, right now I'm watching the theory of computation videos by Shai Simonson  
+A - and I used to do the occasional code challenge at CodeEval, before they closed down, now I'm on HackerRank  
 
 Q - *what is the most difficult or most challenging part of your job?*  
 A - influence without authority, schmoozing  
@@ -69,14 +69,25 @@ A - subjectively, people often ask me to write things for them
 A - objectively, you can have a look at my [Big Five psychometric test results](https://bigfive-test.com/result/5b4b11be7a90d1005389026d)  
 A - tl;dr - high in openness and consciousness, average in extraversion and agreeableness, low in neuroticism  
 
+Q - *what do you do on the weekends?*  
+A - hamburgers (#1 - the rib eye beef burger at Aroma)  
+A - coffee (#1 - Proof Cafe, the first shop outside the Gautrain station in Sandton)  
+A - I've always been learning to draw, but there's never enough time  
+
+Q - *what are you passionate about?*  
+A - good art direction, good copywriting, and good design in general  
+
+Q - *and what are you inversely passionate about?*  
+A - database administration is a hate crime  
+
 Q - *C# vs. Java vs. PHP*  
-A - C# and Visual Studio are the only things that Microsoft has really done right in recent history  
-A - no, Halo was made by Bungie, not Microsoft  
+A - easy, the one that will still be popular next year  
+A - and any of them are better than being stuck on a SQL project  
 
 Q - *vi vs. Emacs*  
 A - nano, **like a normal person**  
 A - on Windows I use Notepad++, Sublime Text, and Brackets  
-A - Notepad++ for the save-as-admin plugin to update config files that live somewhere protected  
+A - Notepad++ mainly for the save-as-admin plugin to update config files that live somewhere protected  
 
 Q - *Google Cloud Platform vs. Amazon Web Services vs. Microsoft Azure*  
 A - Google is the least painful to use, Microsoft is the most painful to use  
@@ -99,14 +110,4 @@ A - but DB2 does have the most complete implementation of ANSI SQL, which gives 
 
 Q - *Intel vs. AMD vs. Arm*  
 A - if this is an assembly language question then TI MSP430  
-A - [MSP430 assembler is easier to understand than some popular scripting languages](http://robotics.hobbizine.com/asmlau.html)
-
-Q - *what do you do on the weekends?*  
-A - hamburgers (#1 - the rib eye beef burger at Aroma)  
-A - coffee (#1 - Proof Cafe, the first shop outside the Gautrain station in Sandton)  
-
-Q - *what are you passionate about?*  
-A - good art direction, good copywriting, good design in general  
-
-Q - *what are you inversely passionate about?*  
-A - database administration is a hate crime  
+A - [MSP430 assembler is easier to understand than some popular scripting languages](http://robotics.hobbizine.com/asmlau.html)  
