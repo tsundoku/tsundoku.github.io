@@ -32,7 +32,7 @@ A - a proof of concept for integration with an enterprise stack, I made the mess
 
 Q - *how big is the software team?*  
 A - 4 people when I started, 8 people now  
-A - but I'm often on-site with banks and insurers  
+A - and I'm often on-site with banks and insurers, they employ between 4 and 8 people to say hello to you on the way to your hot desk 
 
 Q - *what is good code?*  
 A - code that doesn't make me think, organising the structure of a software project is essentially the same information design problem as every other information design problem  
