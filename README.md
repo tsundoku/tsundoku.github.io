@@ -86,8 +86,9 @@ Q - *and what are you inversely passionate about?*
 A - database administration is a hate crime  
 
 Q - *are you a member of, or do you support (insert woke social movement here)?*  
-A - no, social movements are just ways for people to signal their status within a group, and I'm not really the groupie type  
-A - I support the [Surfrider Foundation](https://www.surfrider.org/), they just clean up beaches and the ocean, no funny stuff  
+A - no, social movements are just a tool that people use to signal their status within a group  
+A - [it's not quite marketing 101, but in a good programme you'd definitely get to it by third year](https://vividness.live/2015/10/05/buddhist-ethics-is-advertising/)  
+A - I do support the [Surfrider Foundation](https://www.surfrider.org/), they just clean up beaches and the ocean, no funny stuff  
 
 Q - *C# vs. Java vs. PHP*  
 A - easy, the one that will still be popular next year  
