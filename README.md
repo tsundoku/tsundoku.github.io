@@ -91,7 +91,7 @@ A - [it's not quite marketing 101, but in a good programme you'd definitely get 
 A - I do support the [Surfrider Foundation](https://www.surfrider.org/), they just clean up beaches and the ocean, no funny stuff  
 
 Q - *C# vs. Java vs. PHP*  
-A - easy, the one that will still be popular next year  
+A - easy, the one that the will have the widest commercial usage for the longest period of time  
 A - and any of them are better than being stuck on a SQL project  
 
 Q - *vi vs. Emacs*  
