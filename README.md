@@ -85,7 +85,7 @@ A - good art direction, good copywriting, and good design in general
 Q - *and what are you inversely passionate about?*  
 A - database administration is a hate crime  
 
-Q - *are you a (insert woke social movement here)*  
+Q - *are you a member of, or do you support (insert woke social movement here)?*  
 A - no, social movements are just ways for people to signal their status within a group, and I'm not really the groupie type  
 A - I support the [Surfrider Foundation](https://www.surfrider.org/), they just clean up beaches and the ocean, no funny stuff  
 
