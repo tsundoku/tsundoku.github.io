@@ -3,12 +3,12 @@
 my CV, in FAQ format:  
 
 Q - *what can you do for me today?*  
-A - code, systems, networks, information security, design, copywriting  
+A - code, security, design, copywriting  
 A - the usual Mr. Robot activities, but with less morphine and more Claritin  
 
 Q - *design and copy, they have digital agencies for that sort of, flimflammery, you know?*  
 A - yes, they used an agency for the company website, [and it's still good for a laugh](https://www.adweek.com/creativity/vince-vaughn-and-costars-pose-idiotic-stock-photos-you-can-have-free-163239/)  
-A - there are rules for good design, good copy, and good code, and it's handy to know the similarities between them  
+A - the rules for good design, good copy, and good code are similar, level up one and you will level up all  
 
 Q - *so, what is good code?*  
 A - code that doesn't make me think  
@@ -84,6 +84,10 @@ A - good art direction, good copywriting, and good design in general
 
 Q - *and what are you inversely passionate about?*  
 A - database administration is a hate crime  
+
+Q - *are you a(n) <insert woke social movement here>*  
+A - no, social movements are just ways for people to signal their status within a group, and I'm not really the groupie type  
+A - I support the [Surfrider Foundation](https://www.surfrider.org/), they just clean up beaches and the ocean, no funny stuff  
 
 Q - *C# vs. Java vs. PHP*  
 A - easy, the one that will still be popular next year  
