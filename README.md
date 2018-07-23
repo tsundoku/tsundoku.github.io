@@ -75,10 +75,6 @@ A - coffee (#1 - Proof Cafe, the first shop outside the Gautrain station in Sand
 A - comic books (#1 - Sandman by Neil Gaiman)  
 A - and I'm always trying to find the time to draw, right now I'm going through the [Drawabox lessons by Irshad Karim](http://drawabox.com/)  
 
-Q - *Staedtler Pigment Liner vs. Sakura Pigma Micron*  
-A - it comes down to availability, we pay local prices for Staedtler and import prices for Sakura  
-A - but I did grab a handful of Sakura when I saw them in a small art shop when I was on holiday in Portugal  
-
 Q - *what are you passionate about?*  
 A - good art direction, good copywriting, and good design in general  
 
