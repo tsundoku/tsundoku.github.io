@@ -86,7 +86,7 @@ Q - *and what are you inversely passionate about?*
 A - database administration is a hate crime  
 
 Q - *are you a member of, or do you support (insert woke social movement here)?*  
-A - no, social movements are just a tool that people use to signal their status within a group  
+A - no, social movements are just a tool that socialites use to signal their social status to their social cliques  
 A - [it's not quite marketing 101, but in a good programme you'd definitely get to it by third year](https://vividness.live/2015/10/05/buddhist-ethics-is-advertising/)  
 A - I do support the [Surfrider Foundation](https://www.surfrider.org/), they just clean up beaches and the ocean, no funny stuff  
 
