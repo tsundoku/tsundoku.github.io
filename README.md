@@ -7,13 +7,11 @@ A - code, security, design, copywriting
 A - the usual Mr. Robot activities, but with less morphine and more Claritin  
 
 Q - *design and copy, they have digital agencies for that sort of, flimflammery, you know?*  
-A - yes, they used an agency for the company website, [and it's still good for a laugh](https://www.adweek.com/creativity/vince-vaughn-and-costars-pose-idiotic-stock-photos-you-can-have-free-163239/)  
-A - the rules for good design, good copy, and good code are similar, level up one and you will level up all  
+A - I went to art school, I can't help myself  
+A - and the rules for good design, good copy, and good code are similar  
 
 Q - *so, what is good code?*  
 A - code that doesn't make me think  
-A - “there are only two hard things in computer science: cache invalidation and naming things”  
-A - good copywriting is an essential part of good code  
 
 Q - *and how much time do you spend coding?*  
 A - maybe half of my time at work, I've never had a job that was only coding  
@@ -27,10 +25,7 @@ A - newer tools are in C# and WPF
 A - older tools were in Python and Tk  
 
 Q - *what were the last projects that you worked on alone?*  
-A - (many) data transformation tools  
-A - (many) late night installations  
-A - no, not my choice, late night installations are dumber than drunk installations  
-A - yes, there is hard evidence that driving while tired is worse than driving while drunk  
+A - an assortment of data tools in C# and Python  
 
 Q - *and the last projects that you worked on in a team?*  
 A - a web service maintenance project, I added the changes to the web service library (assigned to me because I originally made the library), and someone else added the changes to the UI  
