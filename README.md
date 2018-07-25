@@ -24,10 +24,11 @@ A - newer tools are in C# and WPF
 A - older tools were in Python and Tk  
 
 Q - *what were the last projects that you worked on alone?*  
-A - an assortment of data tools in C# and Python  
+A - making data tools in C# and Python  
+A - writing an information security policy for humans  
 
 Q - *and the last projects that you worked on in a team?*  
-A - making or maintaining web service libraries and message queue libraries that are then use by other people in the team  
+A - making and maintaining web service and message queue libraries that are used by other people in the team  
 
 Q - *how big is the software team?*  
 A - 4 people when I started, 8 people now  
@@ -62,11 +63,11 @@ A - subjectively, people often ask me to write things for them
 A - objectively, you can have a look at my [Big Five psychometric test results](https://bigfive-test.com/result/5b4b11be7a90d1005389026d)  
 A - tl;dr - high in openness and consciousness, average in extraversion and agreeableness, low in neuroticism  
 
-Q - *what do you do on the weekends?*  
+Q - *what do you do when you're not working?*  
 A - hamburgers (#1 - the rib eye beef burger at Aroma)  
 A - coffee (#1 - Proof Cafe, the first shop outside the Gautrain station in Sandton)  
 A - comic books (#1 - Sandman by Neil Gaiman)  
-A - and I'm always trying to find the time to draw, right now I'm going through the [Drawabox lessons by Irshad Karim](http://drawabox.com/)  
+A - draw, right now I'm going through the [Drawabox lessons by Irshad Karim](http://drawabox.com/)  
 
 Q - *what are you passionate about?*  
 A - good art direction, good copywriting, and good design in general  
