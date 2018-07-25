@@ -13,11 +13,10 @@ Q - *so, what is good code?*
 A - code that doesn't make me think  
 
 Q - *and how much time do you spend coding?*  
-A - maybe half of my time at work, I've never had a job that was only coding  
+A - that's maybe the single most variable variable in the universe  
 
-Q - *how much time do spend on back-end code vs. front-end code?*  
+Q - *okay, so, how much time do spend on back-end code vs. front-end code then?*  
 A - 90% back-end / 10% front-end  
-A - but I'd rather be doing 10% back-end / 90% front-end  
 
 Q - *what stacks are you using right now?*  
 A - for the web systems it's C# and WCF on the back-end, with Web API and Angular on the front-end  
@@ -35,24 +34,24 @@ Q - *how big is the software team?*
 A - 4 people when I started, 8 people now  
 A - and I'm often on-site with banks, they employ between 4 and 8 people just to say hello to you on the way to your hot desk   
 
-Q - *how do you get things done / what project management tools do you use?*  
+Q - *how do you get things done, what project management tools do you use?*  
 A - everyone in the company uses FogBugz to track what to do  
 A - I use a variation of John Carmack's .plan file format to track what was done  
 
-Q - *why do you duplicate your work across two systems?*  
+Q - *but why do you duplicate your work across two systems?*  
 A - FogBugz only tracks official requests, which is maybe a quarter of what I do  
 A - you can think of .plan files as a private Twitter feed of what you've just finished working on  
 
 Q - *how do you keep your skills up to date?*  
 A - videos, right now I'm watching the [theory of computation videos by Shai Simonson](http://www.aduni.org/courses/theory/)  
-A - and I used to do the occasional code challenge at CodeEval, before they closed down, now I'm on HackerRank  
+A - and the occasional code challenge at HackerRank (etc.)  
 
-Q - *what is the most difficult or most challenging part of your job?*  
+Q - *what's the hardest part of your job?*  
 A - influence without authority, schmoozing  
 
-Q - *so, business comes over to your desk and is busy talking you into an ugly hack that will add a ton of technical debt, what do you do?*  
+Q - *so, business walks over to your desk and they try to talk you into an ugly hack that will add a ton of technical debt to the system, what do you do?*  
 A - express concern, act surprised, deny everything  
-A - but seriously, technical debt is an abstraction for defrauding the company over time  
+A - but seriously, technical debt is an abstraction for defrauding the company over time, get security to Tazer them  
 
 Q - *what is your biggest weakness?*  
 A - physically, all of my back injuries, the heaviest item that I can lift is a gaming laptop, I need to use an ergonomic keyboard, an ergonomic mouse, and an ergonomic chair, and I can't be part of any activity more physically demanding than a walk to the nearest café  
@@ -76,10 +75,9 @@ A - good art direction, good copywriting, and good design in general
 Q - *and what are you inversely passionate about?*  
 A - database administration is a hate crime  
 
-Q - *are you a member of, or do you support (insert woke social movement here)?*  
+Q - *are you a (insert woke social movement here)?*  
 A - no, social movements are just a tool that socialites use to signal their social status to their social cliques  
 A - [it's not quite marketing 101, but in a good programme you'd definitely get to it by third year](https://vividness.live/2015/10/05/buddhist-ethics-is-advertising/)  
-A - I do support the [Surfrider Foundation](https://www.surfrider.org/), they just clean up beaches and the ocean, no funny stuff  
 
 Q - *C# vs. Java vs. PHP*  
 A - easy, the one that the will have the widest commercial usage for the longest period of time  
