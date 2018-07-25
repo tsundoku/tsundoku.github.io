@@ -7,10 +7,7 @@ A - code, security, design, copywriting
 A - the usual Mr. Robot activities, but with less morphine and more Claritin  
 
 Q - *design and copy, they have digital agencies for that sort of, flimflammery, you know?*  
-A - I went to art school, I can't help myself  
-A - and good design and good copy make a massive contribution towards good code  
-
-“If you are trying to decide among a few people to fill a position, hire the best writer. It doesn't matter if that person is a marketer, salesperson, designer, programmer, or whatever; their writing skills will pay off. That's because being a good writer is about more than writing. Clear writing is a sign of clear thinking. Great writers know how to communicate. They make things easy to understand. They can put themselves in someone else's shoes. They know what to omit. And those are qualities you want in any candidate.”
+A - good design and good copy make a massive contribution towards good code  
 
 Q - *so, what is good code?*  
 A - code that doesn't make me think  
