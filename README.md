@@ -17,6 +17,7 @@ A - maybe half of my time at work, I've never had a job that was only coding
 
 Q - *how much time do spend on back-end code vs. front-end code?*  
 A - 90% back-end / 10% front-end  
+A - but I'd rather be doing 10% back-end / 90% front-end  
 
 Q - *what stacks are you using right now?*  
 A - for the web systems it's C# and WCF on the back-end, with Web API and Angular on the front-end  
