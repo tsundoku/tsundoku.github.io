@@ -27,8 +27,7 @@ Q - *what were the last projects that you worked on alone?*
 A - an assortment of data tools in C# and Python  
 
 Q - *and the last projects that you worked on in a team?*  
-A - a web service maintenance project, I added the changes to the web service library (assigned to me because I originally made the library), and someone else added the changes to the UI  
-A - a proof of concept for integration with an enterprise stack, I made the message queue library, someone else made the web service library and the UI
+A - making or maintaining web service libraries and message queue libraries that are then use by other people in the team  
 
 Q - *how big is the software team?*  
 A - 4 people when I started, 8 people now  
@@ -44,7 +43,7 @@ A - you can think of .plan files as a private Twitter feed of what you've just f
 
 Q - *how do you keep your skills up to date?*  
 A - videos, right now I'm watching the [theory of computation videos by Shai Simonson](http://www.aduni.org/courses/theory/)  
-A - and the occasional code challenge at HackerRank (etc.)  
+A - and the occasional code challenge at HackerRank  
 
 Q - *what's the hardest part of your job?*  
 A - influence without authority, schmoozing  
