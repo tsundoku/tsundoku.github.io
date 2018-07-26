@@ -1,6 +1,6 @@
 # tsundoku.github.io
 
-my CV, in FAQ format:  
+my résumé, in FAQ format:  
 
 Q - *what can you do for me today?*  
 A - code, security, design, copywriting  
