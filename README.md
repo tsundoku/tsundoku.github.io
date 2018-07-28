@@ -23,16 +23,15 @@ A - for the web systems it's C# and WCF on the back-end, with Web API and Angula
 A - newer tools are in C# and WPF  
 A - older tools were in Python and Tk  
 
+Q - *okay, but what about (insert exactly 42 buzzwords and TLAs here)*  
+A - no  
+
 Q - *what were the last projects that you worked on alone?*  
 A - making data tools in C# and Python  
 A - writing an information security policy for humans  
 
 Q - *and the last projects that you worked on in a team?*  
 A - making and maintaining web service and message queue libraries that are used by other people in the team  
-
-Q - *how big is the software team?*  
-A - 4 people when I started, 8 people now  
-A - and I'm often on-site with banks, they employ between 4 and 8 people just to say hello to you on the way to your hot desk   
 
 Q - *how do you get things done, what project management tools do you use?*  
 A - everyone in the company uses FogBugz to track what to do  
