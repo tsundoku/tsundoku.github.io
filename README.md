@@ -41,7 +41,8 @@ A - FogBugz only tracks official requests, which is maybe a quarter of what I do
 A - you can think of .plan files as a private Twitter feed of what you've just finished working on  
 
 Q - *how do you keep your skills up to date?*  
-A - videos, right now I'm watching the [theory of computation videos by Shai Simonson](http://www.aduni.org/courses/theory/)  
+A - videos, right now I'm watching the [Theory of Computation videos by Shai Simonson](http://www.aduni.org/courses/theory/)  
+A - and I'll probably work through the [Understanding Computation book by Tom Stuart](http://computationbook.com) when I'm half way through the videos  
 
 Q - *what's the hardest part of your job?*  
 A - influence without authority, schmoozing  
