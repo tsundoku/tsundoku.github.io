@@ -67,6 +67,7 @@ A - hamburgers (#1 - the rib eye beef burger at Aroma)
 A - coffee (#1 - Proof Cafe, the first shop outside the Gautrain station in Sandton)  
 A - comic books (#1 - Sandman by Neil Gaiman)  
 A - draw, right now I'm going through the [Drawabox lessons by Irshad Karim](http://drawabox.com/)  
+A - shop for things to draw with, right now I'm using [Moleskine A4 printer paper, which has a buttery smooth surface and is cheaper than any “art” paper](http://www.moleskine.com/collections/model/product/printable-paper-a4), and [Staedtler Pigment Liners, mainly because they're easy to find online](https://www.staedtler.co.za/en/products/ink-writing-instruments/fineliners/pigment-liner-308-fineliner/)  
 
 Q - *what are you passionate about?*  
 A - good art direction, good copywriting, and good design in general  
