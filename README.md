@@ -42,7 +42,6 @@ A - you can think of .plan files as a private Twitter feed of what you've just f
 
 Q - *how do you keep your skills up to date?*  
 A - videos, right now I'm watching the [Theory of Computation videos by Shai Simonson](http://www.aduni.org/courses/theory/)  
-A - and I'll probably work through the [Understanding Computation book by Tom Stuart](http://computationbook.com) when I'm half way through the videos  
 
 Q - *what's the hardest part of your job?*  
 A - influence without authority, schmoozing  
@@ -67,7 +66,6 @@ A - hamburgers (#1 - the rib eye beef burger at Aroma)
 A - coffee (#1 - Proof Cafe, the first shop outside the Gautrain station in Sandton)  
 A - comic books (#1 - Sandman by Neil Gaiman)  
 A - draw, right now I'm going through the [Drawabox lessons by Irshad Karim](http://drawabox.com/)  
-A - shop for things to draw with, right now I'm using [Moleskine A4 printer paper, which has a buttery smooth surface and is cheaper than any “art” paper](http://www.moleskine.com/collections/model/product/printable-paper-a4), and [Staedtler Pigment Liners, mainly because they're easy to find online](https://www.staedtler.co.za/en/products/ink-writing-instruments/fineliners/pigment-liner-308-fineliner/)  
 
 Q - *what are you passionate about?*  
 A - good art direction, good copywriting, and good design in general  
