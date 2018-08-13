@@ -90,3 +90,6 @@ A - Google is the least painful to use, Microsoft is the most painful to use
 Q - *Intel vs. AMD vs. Arm*  
 A - if this is an assembly language question then TI MSP430  
 A - [MSP430 assembler is easier to understand than some popular scripting languages](http://robotics.hobbizine.com/asmlau.html)  
+
+Q - *string theory vs. loop quantum gravity*  
+A - causal dynamical triangulation
